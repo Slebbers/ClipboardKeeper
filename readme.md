@@ -1,0 +1,1 @@
+ClipboardKeeper is a Java application that saves text copied to the system clipboard. 
